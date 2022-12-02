@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_switch_text">повторения</string>
+    <string name="btn_combination_submit_text">посчитать</string>
+    <string name="tv_result_text">результат</string>
+    <string name="tv_k_text">введите число элементов</string>
+    <string name="tv_n_text_for_combination">введите число для сочетания</string>
+    <string name="tv_n_text_for_permutation">введите числа повторяющихся элементов через пробел</string>
+    <string name="tv_n_text_for_placement">число значений для размещений</string>
+</resources>

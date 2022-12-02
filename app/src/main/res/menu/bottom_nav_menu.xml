@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Combination"
+        android:id="@+id/combinationFragment"
+        android:icon="@drawable/combination"/>
+
+    <item
+        android:title="Permutation"
+        android:id="@+id/permutationsFragment"
+        android:icon="@drawable/permutation"
+        />
+    <item
+        android:title="Placement"
+        android:id="@+id/placementFragment"
+        android:icon="@drawable/placement"/>
+</menu>
